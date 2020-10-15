@@ -6,13 +6,13 @@ Orthogonal Partial Least Squares Regression (OPLSR)
 This paper introduces a useful combined approach of applying orthogonal signal correction (OSC) and permutation tests to PLS for the purpose of feature selection.
 
 ## Usage
-  *There are three methods for feauture selection: OPLSR, FDR, and Lasso.   
-  *Algorithms used in experiments can be impledmented by running test_FDR_PCR, test_linear, and testPCRselection_Data.   
+  * There are three methods for feauture selection: OPLSR, FDR, and Lasso.   
+  * Algorithms used in experiments can be impledmented by running   
   ```
 $ matlab test_FDR_PCR.m
 $ matlab test_linear.m
 $ matlab testPCRselection_Data.m
   ```
-  *The matters related to the creation and experimentation of simulation data are in ./Simulation.   
-  *All the datasets, Metabolomics and NIR spectra, are in ./data.   
-  *To produce output, each methods require some useful functions for calculation, call and etc. The functions are in ./utils.   
+  * The matters related to the creation and experimentation of simulation data are in ./Simulation.   
+  * All the datasets, Metabolomics and NIR spectra, are in ./data.   
+  * To produce output, each methods require some useful functions for calculation, call and etc. The functions are in ./utils.   
