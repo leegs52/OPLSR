@@ -1,0 +1,15 @@
+aic:5.0257 bic:9.2144  adjR2:-0.022 pval:1.0000 OPLS 1
+aic:-38.0510 bic:-31.7679  adjR2:-0.022 pval:0.0000 OPLS 1  2
+aic:-66.1574 bic:-57.7800  adjR2:-0.022 pval:0.0000 OPLS 1  2  3
+aic:-395.6818 bic:-385.2101  adjR2:-0.022 pval:0.0000 OPLS 1  2  3  4
+aic:-414.0593 bic:-401.4932  adjR2:-0.022 pval:0.0000 OPLS 1  2  3  4  5
+aic:-425.0087 bic:-410.3483  adjR2:-0.022 pval:0.0000 OPLS 1  2  3  4  5  6
+aic:-515.3123 bic:-498.5576  adjR2:-0.022 pval:0.0000 OPLS 1  2  3  4  5  6  7
+aic:-545.9708 bic:-527.1217  adjR2:-0.022 pval:0.0000 OPLS 1  2  3  4  5  6  7  8
+aic:-589.8247 bic:-568.8812  adjR2:-0.022 pval:0.0000 OPLS 1  2  3  4  5  6  7  8  9
+aic:3.0536 bic:7.2423  adjR2:-0.022 pval:0.1692 PCA 1
+aic:6.0873 bic:12.3703  adjR2:-0.022 pval:0.3901 PCA 1  2
+aic:7.1090 bic:15.4863  adjR2:-0.022 pval:0.2854 PCA 1  2  3
+aic:10.1740 bic:20.6457  adjR2:-0.022 pval:0.4383 PCA 1  2  3  4
+aic:13.2547 bic:25.8207  adjR2:-0.022 pval:0.5856 PCA 1  2  3  4  5
+aic:15.3051 bic:29.9656  adjR2:-0.022 pval:0.5830 PCA 1  2  3  4  5  6
