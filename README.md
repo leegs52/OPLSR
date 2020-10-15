@@ -2,7 +2,7 @@
 Orthogonal Partial Least Squares Regression (OPLSR)
 
 ## Our paper
-“Feature Selection Using Distribution of Orthogonal PLS Regression Vectors in Spectral Data”
+“Feature Selection Using Distribution of Orthogonal PLS Regression Vectors in Spectral Data”   
 This paper introduces a useful combined approach of applying orthogonal signal correction (OSC) and permutation tests to PLS for the purpose of feature selection.
 
 ## Usage
