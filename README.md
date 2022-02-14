@@ -7,7 +7,7 @@ This paper introduces a useful combined approach of applying orthogonal signal c
 
 ## Usage
   * There are three methods for feauture selection: OPLSR, FDR, and Lasso.   
-  * Algorithms used in experiments can be impledmented by running   
+  * Algorithms used in experiments can be implemented by running   
   ```
 $ matlab test_FDR_PCR.m
 $ matlab test_linear.m
